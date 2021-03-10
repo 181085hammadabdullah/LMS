@@ -1,0 +1,39 @@
+﻿Build started 12/29/2020 9:27:28 AM.
+     1>Project "E:\BS CS Fast\Semester 5\Software Design & Analysis\Project\SDA_Project\SDA_Project\SDA_Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt GUI.cpp
+         GUI.cpp
+     1>e:\bs cs fast\semester 5\software design & analysis\project\sda_project\sda_project\student.h(152): warning C4101: 'arr1' : unreferenced local variable
+     1>e:\bs cs fast\semester 5\software design & analysis\project\sda_project\sda_project\student.h(196): warning C4101: 'arr1' : unreferenced local variable
+     1>e:\bs cs fast\semester 5\software design & analysis\project\sda_project\sda_project\student.h(218): warning C4101: 'arr1' : unreferenced local variable
+     1>e:\bs cs fast\semester 5\software design & analysis\project\sda_project\sda_project\student.h(240): warning C4101: 'arr1' : unreferenced local variable
+     1>e:\bs cs fast\semester 5\software design & analysis\project\sda_project\sda_project\student.h(262): warning C4101: 'arr1' : unreferenced local variable
+     1>e:\bs cs fast\semester 5\software design & analysis\project\sda_project\sda_project\system.h(1022): warning C4101: 'id' : unreferenced local variable
+     1>e:\bs cs fast\semester 5\software design & analysis\project\sda_project\sda_project\system.h(1098): warning C4101: 'id' : unreferenced local variable
+     1>e:\bs cs fast\semester 5\software design & analysis\project\sda_project\sda_project\system.h(1125): warning C4101: 'id' : unreferenced local variable
+     1>e:\bs cs fast\semester 5\software design & analysis\project\sda_project\sda_project\system.h(1154): warning C4101: 'id' : unreferenced local variable
+     1>e:\bs cs fast\semester 5\software design & analysis\project\sda_project\sda_project\system.h(2659): warning C4101: 'arr1' : unreferenced local variable
+     1>e:\bs cs fast\semester 5\software design & analysis\project\sda_project\sda_project\system.h(2703): warning C4101: 'arr1' : unreferenced local variable
+     1>e:\bs cs fast\semester 5\software design & analysis\project\sda_project\sda_project\system.h(2725): warning C4101: 'arr1' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\BS CS Fast\Semester 5\Software Design & Analysis\Project\SDA_Project\Debug\SDA_Project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\BS CS Fast\Semester 5\Software Design & Analysis\Project\SDA_Project\Debug\SDA_Project.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\BS CS Fast\Semester 5\Software Design & Analysis\Project\SDA_Project\Debug\SDA_Project.lib" /MACHINE:X86 Debug\Aced_Off.obj
+         Debug\Attendance.obj
+         Debug\Course.obj
+         Debug\Course_Reg_Info.obj
+         Debug\Date.obj
+         Debug\Evaluation.obj
+         Debug\GUI.obj
+         Debug\Marks.obj
+         Debug\Person.obj
+         Debug\Registration.obj
+         Debug\Section.obj
+         Debug\Semester.obj
+         Debug\Student.obj
+         Debug\System.obj
+         Debug\Teacher.obj
+         SDA_Project.vcxproj -> E:\BS CS Fast\Semester 5\Software Design & Analysis\Project\SDA_Project\Debug\SDA_Project.exe
+     1>Done Building Project "E:\BS CS Fast\Semester 5\Software Design & Analysis\Project\SDA_Project\SDA_Project\SDA_Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.34

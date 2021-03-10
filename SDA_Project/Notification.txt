@@ -1,0 +1,3 @@
+2
+18L-1083 CS423 A Yes                                      Dear Student the seats of Course CS423 in section A is available
+18L-1085 CS423 A No                                      Dear Student the seats of Course CS423 in section A is available
